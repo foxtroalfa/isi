@@ -1,0 +1,37 @@
+RewriteEngine On
+
+#Enviar trafico HTTP a HTTPS
+RewriteCond %{ENV:HTTPS} !on [NC]
+RewriteCond %{SERVER_PORT} 08
+RewriteRule ^(.*)$ https://isi.edu.py/$1 [R=301,L,NE]
+
+RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php [L]
+
+#RewriteRule ^([a-zA-Z0-9_-]+)/?$ index.php?id=$1
+#RewriteRule ^empresa/([a-zA-Z0-9_-]+)?$ $1.php
+#ErrorDocument 404 error.php
+
+
+
+
+RewriteRule ^portal/curso/([a-zA-Z]+)/([a-zA-Z]+)$ ^portal/curso.php
+
+ErrorDocument 404 /isi/404.html
+
+#Rediccionamiento segun titulo
+RewriteRule ^excel-basicointermedio portada_curso.php?id=12 [NC,L]
+RewriteRule ^excel-profesional-administrativo portada_curso.php?id=13 [NC,L]
+RewriteRule ^excel-profesional-financiero portada_curso.php?id=15 [NC,L]
+RewriteRule ^power-bi portada_curso.php?id=18 [NC,L]
+RewriteRule ^microsoft-word portada_curso.php?id=19 [NC,L]
+RewriteRule ^excel-power-pivot portada_curso.php?id=16 [NC,L]
+RewriteRule ^microsoft-power-point  portada_curso.php?id=20 [NC,L]
+RewriteRule ^excel-de-cero-a-experto  portada_curso.php?id=22 [NC,L]
+RewriteRule ^mecanografia  portada_curso.php?id=21 [NC,L]
+RewriteRule ^sistema-operativo-windows  portada_curso.php?id=24 [NC,L]
+
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)

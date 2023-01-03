@@ -1,0 +1,803 @@
+[20-Oct-2022 14:54:30 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'isiedupy_develop22'@'localhost' (using password: YES) in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 270
+[20-Oct-2022 14:54:30 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 271
+[20-Oct-2022 14:55:24 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'isiedupy_develop22'@'localhost' (using password: YES) in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 270
+[20-Oct-2022 14:55:24 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 271
+[20-Oct-2022 14:55:51 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 14:55:51 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 14:55:51 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 14:56:16 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 14:56:16 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 14:56:16 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 14:56:35 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 14:56:35 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 14:56:35 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 14:57:49 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 14:57:49 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 14:57:49 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 14:57:52 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 14:57:52 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 14:57:52 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 14:58:16 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 14:58:16 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 14:58:16 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 14:58:45 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 14:58:45 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 14:58:45 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:01:13 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/cursos.php on line 23
+[20-Oct-2022 15:01:14 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/cursos.php on line 23
+[20-Oct-2022 15:01:14 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/cursos.php on line 23
+[20-Oct-2022 15:01:30 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:01:30 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:01:30 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:01:57 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:01:57 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:01:57 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:02:04 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:02:04 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:02:04 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:02:58 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:02:58 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:02:58 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:04:08 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:04:08 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:04:08 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:05:50 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/comprar_cursos.php on line 25
+[20-Oct-2022 15:05:50 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 291
+[20-Oct-2022 15:05:50 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 292
+[20-Oct-2022 15:05:50 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 305
+[20-Oct-2022 15:05:50 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 306
+[20-Oct-2022 15:05:53 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/comprar_cursos.php on line 25
+[20-Oct-2022 15:05:53 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 291
+[20-Oct-2022 15:05:53 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 292
+[20-Oct-2022 15:05:53 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 305
+[20-Oct-2022 15:05:53 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 306
+[20-Oct-2022 15:06:02 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:06:02 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:06:02 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:06:20 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:06:20 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:06:20 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:08:37 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:08:37 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:08:37 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:08:47 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:08:47 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:08:47 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:09:00 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:09:00 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:09:00 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:09:00 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:09:00 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:09:00 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:09:18 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:09:18 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:09:18 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:09:41 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:09:41 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:09:41 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:10:12 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:10:12 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:10:12 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:13:29 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/comprar_cursos.php on line 25
+[20-Oct-2022 15:13:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 291
+[20-Oct-2022 15:13:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 292
+[20-Oct-2022 15:13:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 305
+[20-Oct-2022 15:13:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 306
+[20-Oct-2022 15:13:39 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:13:39 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:13:39 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:13:41 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:13:41 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:13:41 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:14:11 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:14:11 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:14:11 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:14:21 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:14:21 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:14:21 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:15:00 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:15:00 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:15:00 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:15:45 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:15:45 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:15:45 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:15:59 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:15:59 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:15:59 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:16:13 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:16:13 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:16:13 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:17:38 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:17:38 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:17:38 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:18:01 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:18:01 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:18:01 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:22:50 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:22:50 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:22:50 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:23:09 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:23:09 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:23:09 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:23:39 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:23:39 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:23:39 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:24:39 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:24:39 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:24:39 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:27:53 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:27:54 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:27:54 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:27:58 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:27:58 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:27:58 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:29:25 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:29:25 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:29:25 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:33:54 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:33:54 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:33:54 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:43:08 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:43:08 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:43:08 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:43:10 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:43:13 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:43:14 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:43:23 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:43:41 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:44:26 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:44:27 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:44:28 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:45:12 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:46:45 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:46:51 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:47:07 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:47:08 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:49:07 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:49:10 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:49:32 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:49:35 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:49:48 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:49:54 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:50:01 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:50:04 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:50:04 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:51:19 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:51:24 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:51:28 America/Asuncion] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/isiedu/public_html/_sys/config/sys.paths.php on line 24
+[20-Oct-2022 15:52:04 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:52:04 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:52:04 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:52:38 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:52:38 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:52:38 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:53:05 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:53:05 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:53:05 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:55:46 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:55:46 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:55:46 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:55:55 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:55:55 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:55:55 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:57:57 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:57:57 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:57:57 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:58:07 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:58:07 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:58:07 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 15:59:00 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 15:59:00 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 15:59:00 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:00:05 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:00:05 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:00:05 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:00:32 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:00:32 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:00:32 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:04:47 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:04:47 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:04:47 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:09:20 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:09:20 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:09:20 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:11:04 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:11:04 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:11:04 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:11:29 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/comprar_cursos.php on line 25
+[20-Oct-2022 16:11:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 291
+[20-Oct-2022 16:11:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 292
+[20-Oct-2022 16:11:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 305
+[20-Oct-2022 16:11:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 306
+[20-Oct-2022 16:11:44 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:11:44 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:11:44 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:13:02 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:13:02 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:13:02 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:13:10 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:13:10 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:13:10 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:16:10 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:16:10 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:16:10 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:16:10 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:16:10 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:16:10 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:16:52 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:16:52 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:16:52 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:17:05 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:17:05 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:17:05 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:18:29 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:18:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:18:29 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:23:02 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:23:02 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:23:02 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:23:59 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:23:59 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:23:59 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:24:02 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:24:02 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:24:02 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:25:07 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:25:07 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:25:07 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:25:43 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:25:43 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:25:43 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:26:58 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:26:58 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:26:58 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:27:59 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:27:59 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:27:59 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:28:12 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/comprar_cursos.php on line 25
+[20-Oct-2022 16:28:12 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 291
+[20-Oct-2022 16:28:12 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 292
+[20-Oct-2022 16:28:12 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 305
+[20-Oct-2022 16:28:12 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 306
+[20-Oct-2022 16:28:32 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:28:32 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:28:32 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:33:17 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:33:17 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:33:17 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:33:17 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:33:17 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:33:17 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:33:18 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:33:18 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:33:18 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:33:20 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:33:20 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:33:20 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:33:20 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:33:20 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:33:20 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:36:07 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/comprar_cursos.php on line 25
+[20-Oct-2022 16:36:07 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 291
+[20-Oct-2022 16:36:07 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 292
+[20-Oct-2022 16:36:07 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 305
+[20-Oct-2022 16:36:07 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/comprar_cursos.php on line 306
+[20-Oct-2022 16:36:23 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:36:23 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:36:23 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:37:49 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:37:49 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:37:49 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:37:55 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:37:55 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:37:55 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:42:12 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:42:12 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:42:12 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:43:25 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:43:25 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:43:25 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:51:37 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:51:37 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:51:37 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 16:54:46 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 16:54:46 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 16:54:46 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 17:02:51 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 17:02:51 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 17:02:51 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[20-Oct-2022 17:02:56 America/Asuncion] PHP Warning:  Invalid argument supplied for foreach() in /home/isiedu/public_html/index.php on line 70
+[20-Oct-2022 17:02:56 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 337
+[20-Oct-2022 17:02:56 America/Asuncion] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isiedu/public_html/index.php on line 338
+[24-Oct-2022 18:07:30 America/Asuncion] PHP Warning:  require(../_sys/init.php): failed to open stream: No such file or directory in /home/isiedu/public_html/confirmaPago.php on line 2
+[24-Oct-2022 18:07:30 America/Asuncion] PHP Fatal error:  require(): Failed opening required '../_sys/init.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/isiedu/public_html/confirmaPago.php on line 2
+[17-Nov-2022 09:36:09 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 09:36:09[17-Nov-2022 14:30:01 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:30:01 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:30:05 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:30:05 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:30:06 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:30:06 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:30:54 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:30:54 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:30:58 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:30:58 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:32:48 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:32:48 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:34:17 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:34:17 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:36:39 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:36:39 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:36:42 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:36:42 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:36:43 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:36:43 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:37:06 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:37:06 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:38:31 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:38:31 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:38:36 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:38:36 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:38:40 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:38:40 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:39:37 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:39:37 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:39:46 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:39:46 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:39:51 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:39:51 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:39:53 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:39:53 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:39:55 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:39:55 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:40:19 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:40:19 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:40:46 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:40:46 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:41:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:41:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:41:32 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:41:32 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:42:13 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:42:13 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:42:16 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:42:16 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:42:34 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:42:34 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:42:38 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:42:38 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:42:46 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:42:46 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:42:48 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:42:48 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:43:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:43:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:43:48 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:43:48 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:44:48 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:44:48 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:44:59 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:44:59 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:45:18 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:45:18 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:45:20 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:45:20 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:45:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:45:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:45:27 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:45:27 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:46:19 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:46:19 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:47:04 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:47:04 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:47:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:47:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:47:24 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:47:24 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:47:26 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:47:26 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:47:33 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:47:33 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 14:48:34 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 14:48:34 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 15:42:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/1203): User isiedu_develop22 already has more than 'max_user_connections' active connections in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 15:42:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 15:42:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/1203): User isiedu_develop22 already has more than 'max_user_connections' active connections in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 15:42:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:21 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:22 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:23 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[17-Nov-2022 16:24:24 America/Asuncion] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 264
+[17-Nov-2022 16:24:24 America/Asuncion] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/isiedu/public_html/_sys/lib/core/class.mysql.php on line 265
+[28-Nov-2022 20:10:28 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[28-Nov-2022 20:19:05 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[28-Nov-2022 20:25:30 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[28-Nov-2022 20:34:07 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[30-Nov-2022 19:13:09 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[30-Nov-2022 19:28:12 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[01-Dec-2022 16:07:15 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[01-Dec-2022 16:15:10 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[01-Dec-2022 16:22:18 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[01-Dec-2022 16:30:12 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[01-Dec-2022 16:38:53 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[01-Dec-2022 16:53:56 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 14:13:01 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 14:17:38 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 14:28:05 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 14:32:41 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 15:23:57 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 15:24:02 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 15:38:59 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 15:39:04 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 18:16:18 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[02-Dec-2022 19:18:19 America/Asuncion] PHP Parse error:  syntax error, unexpected ';' in /home/isiedu/public_html/_sys/lib/controller/curso.class.php on line 89
+[02-Dec-2022 19:18:59 America/Asuncion] PHP Parse error:  syntax error, unexpected ';' in /home/isiedu/public_html/_sys/lib/controller/curso.class.php on line 89
+[02-Dec-2022 19:19:00 America/Asuncion] PHP Parse error:  syntax error, unexpected ';' in /home/isiedu/public_html/_sys/lib/controller/curso.class.php on line 89
+[03-Dec-2022 10:25:20 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[03-Dec-2022 10:34:45 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "aulaweb@isi.edu.py" using 2 possible authenticators in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:179
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(252): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(108): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(29): Mail::send(Array, Ar in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 179
+[03-Dec-2022 10:34:56 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "aulaweb@isi.edu.py" using 2 possible authenticators in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:179
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(252): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(108): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(29): Mail::send(Array, Ar in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 179
+[03-Dec-2022 10:40:22 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[04-Dec-2022 01:07:15 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "aulaweb@isi.edu.py" using 2 possible authenticators in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:179
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(252): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(108): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(29): Mail::send(Array, Ar in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 179
+[04-Dec-2022 01:12:46 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "aulaweb@isi.edu.py" using 2 possible authenticators in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:179
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(252): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(108): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(29): Mail::send(Array, Ar in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 179
+[04-Dec-2022 01:14:12 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "aulaweb@isi.edu.py" using 2 possible authenticators in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:179
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/EsmtpTransport.php(252): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(108): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(31): Mail::send(Array, Ar in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 179
+[04-Dec-2022 01:21:39 America/Asuncion] PHP Warning:  fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[04-Dec-2022 01:21:39 America/Asuncion] PHP Warning:  fsockopen(): Failed to enable crypto in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[04-Dec-2022 01:21:39 America/Asuncion] PHP Warning:  fsockopen(): unable to connect to tls://mail.isi.edu.py:26 (Unknown error) in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[04-Dec-2022 01:21:39 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Connection could not be established with host mail.isi.edu.py [ #0] in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php:235
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php(70): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(101): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(30): Mail::send(Array, Array, 'Registro :: Isi...', 'alert_template....', Array)
+#6 {m in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 235
+[04-Dec-2022 01:22:06 America/Asuncion] PHP Warning:  fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[04-Dec-2022 01:22:06 America/Asuncion] PHP Warning:  fsockopen(): Failed to enable crypto in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[04-Dec-2022 01:22:06 America/Asuncion] PHP Warning:  fsockopen(): unable to connect to tls://mail.isi.edu.py:26 (Unknown error) in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[04-Dec-2022 01:22:06 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Connection could not be established with host mail.isi.edu.py [ #0] in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php:235
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php(70): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(101): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(27): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(30): Mail::send(Array, Array, 'Registro :: Isi...', 'alert_template....', Array)
+#6 {m in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 235
+[05-Dec-2022 09:56:47 America/Asuncion] PHP Warning:  fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[05-Dec-2022 09:56:47 America/Asuncion] PHP Warning:  fsockopen(): Failed to enable crypto in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[05-Dec-2022 09:56:47 America/Asuncion] PHP Warning:  fsockopen(): unable to connect to tls://mail.isi.edu.py:26 (Unknown error) in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[05-Dec-2022 09:56:47 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Connection could not be established with host mail.isi.edu.py [ #0] in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php:235
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php(70): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(101): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(30): Mail::send(Array, Array, 'Registro :: Isi...', 'alert_template....', Array)
+#6 {m in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 235
+[05-Dec-2022 09:57:25 America/Asuncion] PHP Warning:  fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[05-Dec-2022 09:57:25 America/Asuncion] PHP Warning:  fsockopen(): Failed to enable crypto in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[05-Dec-2022 09:57:25 America/Asuncion] PHP Warning:  fsockopen(): unable to connect to tls://mail.isi.edu.py:26 (Unknown error) in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[05-Dec-2022 09:57:25 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Connection could not be established with host mail.isi.edu.py [ #0] in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php:235
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php(70): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(101): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(30): Mail::send(Array, Array, 'Registro :: Isi...', 'alert_template....', Array)
+#6 {m in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 235
+[09-Dec-2022 17:33:09 America/Asuncion] PHP Warning:  fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[09-Dec-2022 17:33:09 America/Asuncion] PHP Warning:  fsockopen(): Failed to enable crypto in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[09-Dec-2022 17:33:09 America/Asuncion] PHP Warning:  fsockopen(): unable to connect to tls://mail.isi.edu.py:26 (Unknown error) in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[09-Dec-2022 17:33:09 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Connection could not be established with host mail.isi.edu.py [ #0] in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php:235
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php(70): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(101): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(30): Mail::send(Array, Array, 'Registro :: Isi...', 'alert_template....', Array)
+#6 {m in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 235
+[09-Dec-2022 21:43:11 America/Asuncion] PHP Warning:  fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[09-Dec-2022 21:43:11 America/Asuncion] PHP Warning:  fsockopen(): Failed to enable crypto in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[09-Dec-2022 21:43:11 America/Asuncion] PHP Warning:  fsockopen(): unable to connect to tls://mail.isi.edu.py:26 (Unknown error) in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 233
+[09-Dec-2022 21:43:11 America/Asuncion] PHP Fatal error:  Uncaught Swift_TransportException: Connection could not be established with host mail.isi.edu.py [ #0] in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php:235
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php(70): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/AbstractSmtpTransport.php(101): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(74): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mailer.php(136): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/isiedu/public_html/_sys/lib/core/class.mail.php(25): Swift_Mailer->batchSend(Object(Swift_Message))
+#5 /home/isiedu/public_html/test_info.php(30): Mail::send(Array, Array, 'Registro :: Isi...', 'alert_template....', Array)
+#6 {m in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Transport/StreamBuffer.php on line 235
+[13-Dec-2022 10:56:17 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
+[13-Dec-2022 11:11:18 America/Asuncion] PHP Fatal error:  Uncaught Swift_RfcComplianceException: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php:309
+Stack trace:
+#0 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(239): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(97): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php(61): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderFactory.php(64): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/SimpleHeaderSet.php(77): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 in /home/isiedu/public_html/_sys/lib/core/swift/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 309
